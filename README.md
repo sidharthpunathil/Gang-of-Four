@@ -1,4 +1,4 @@
-# Gang-of-Four-2k21
+# Gang-of-Four
 
 <img src = "https://hacktoberfest.digitalocean.com/share-card.png">
 Repo created for basic and advanced python program learning. Participating in Hacktoberfest 2021.
