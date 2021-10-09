@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 int pr[30],p[30], bt[30], tot_tat = 0, wt[30], n, tot_wt = 0, tat[30], PR_wt = 0, PR_tat = 0;
 
@@ -68,6 +67,6 @@ int main()
 	printf("\n\nTotal Turn around Time:%d",PR_tat); 
 	printf("\nAverage Turn around Time :%d ", PR_tat/n);
 	printf("\nTotal Waiting Time:%d",PR_wt); 
-	printf("\nTotal avg. Waiting Time:%d",PR_wt/n); 
+	printf("\nTotal avg. Waiting Time:%d\n",PR_wt/n); 
 	return 0; 
 }	
